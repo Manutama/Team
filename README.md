@@ -1,1 +1,3 @@
-# Admiral Team profofolio 
+ - Admiral Team profofolio 
+ - create make bootstrap 
+ - php (On going)
