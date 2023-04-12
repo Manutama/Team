@@ -149,12 +149,12 @@
     }
   
     /**
-     * Skills animation
+     * Dev animation
      */
-    let skilsContent = select('.skills-content');
-    if (skilsContent) {
+    let developContent = select('.develop-content');
+    if (developContent) {
       new Waypoint({
-        element: skilsContent,
+        element: developContent,
         offset: '80%',
         handler: function(direction) {
           let progress = select('.progress .progress-bar', true);
